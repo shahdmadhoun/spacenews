@@ -1,0 +1,43 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.photo{
+    width:45px;
+    margin-top: -15px;
+}
+
+.elemntnav{
+
+    letter-spacing: 1.6px;
+    margin-right: 20px;
+    font-size: 18px;
+}
+
+.impelemnt{
+    margin-right: 100px;
+    letter-spacing: 1.6px;
+    font-size: 18px;
+
+}
+
+
+.page-footer{
+    background-color: #222222;
+    margin-top: 20px;
+    color: white;
+    padding: 20px;
+}
+
+.row h1{
+    text-align: justify;
+    font-family: Cinzel;
+}
+
+.row p {
+    text-align: justify;
+    font-family: lora;
+    font-size: 20px;
+    line-height: 35px;
+}

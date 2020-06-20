@@ -1,0 +1,68 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(C:/Users/Asus/Desktop/Bootstrap/res/img/back.jpg);
+}
+
+.photo{
+    width:45px;
+    margin-top: -15px;
+}
+
+.elemntnav{
+
+    letter-spacing: 1.6px;
+    margin-right: 20px;
+    font-size: 18px;
+}
+
+.impelemnt{
+    margin-right: 100px;
+    letter-spacing: 1.6px;
+    font-size: 18px;
+
+}
+
+
+.page-footer{
+    background-color: #222222;
+    margin-top: 50px;
+    color: white;
+    padding: 20px;
+}
+
+.design{
+    border-style: solid;
+    border-width: 1px;
+    float: left;
+    margin-right: 7px;
+    margin-bottom: 7px;
+}
+
+.designp{
+    border-style: solid;
+    border-width: 1px;
+    margin-right: 7px;
+    margin-bottom: 7px;
+}
+
+.color{
+    color: #79787d;
+    letter-spacing: 1.6px;
+    font-size: 15px;
+}
+
+.indiv{
+    margin-left: 30px;
+    
+    
+}
+
+h5{
+    color: #79787d;
+    letter-spacing: 1.6px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+
+}

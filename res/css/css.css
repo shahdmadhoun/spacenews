@@ -1,0 +1,64 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.photo{
+    width:45px;
+    margin-top: -15px;
+}
+
+.elemntnav{
+
+    letter-spacing: 1.6px;
+    margin-right: 20px;
+    font-size: 18px;
+}
+
+.impelemnt{
+    margin-right: 100px;
+    letter-spacing: 1.6px;
+    font-size: 18px;
+
+}
+
+.card{
+    width:270px;
+    padding:0px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    font-family: lora;
+    box-shadow: 0 0px 10px 0 rgba(0,0,0,0.2);
+    border-radius: 30px;
+
+}
+
+.card img{
+    border-radius: 30px;
+
+}
+
+
+.card h3{
+    font-family: Cinzel;
+    font-weight:bold;
+    padding-left: 10px;
+
+}
+
+.card p{
+    padding-left: 10px;
+
+}
+
+.btn{
+    margin-left: 90px;
+}
+
+.page-footer{
+    background-color: #222222;
+    margin-top: 20px;
+    color: white;
+    padding: 20px;
+}
